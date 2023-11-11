@@ -33,7 +33,7 @@
 
         //parte 5
 
-        int a = 5;
+        /*int a = 5;
         int b = 8;
 
         if (a > b)
@@ -47,6 +47,32 @@
         else if (a == b)
         {
                 Console.WriteLine("a EH igual b");
-        }
+        }*/
 
-        
+        //parte 6
+
+        /*string str1 = "Hello";
+        string str2 = "World";
+
+        if(str1.Equals(str2)) 
+        {
+                Console.WriteLine("As strings SÃO iguais");
+        }
+        else 
+        {
+                Console.WriteLine("As strings NÃO são iguais");
+        }*/
+
+        //parte 7
+
+        bool condicao1 = true;
+        bool condicao2 = false;
+
+        if (condicao1 && condicao2)
+        {
+            Console.WriteLine("Ambas as condições são verdadeiras.");
+        }
+        else
+        {
+            Console.WriteLine("Uma das condições não é verdadeira.");
+        }
