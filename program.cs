@@ -22,11 +22,31 @@
  
         //parte 4
 
-        int x = 10;
+        /*int x = 10;
         int y = 2;
         int resultado;
 
         Console.WriteLine($"Soma: {resultado = x + y}");
         Console.WriteLine($"Subtração: {resultado = x - y}");
         Console.WriteLine($"Divisão: {resultado = x / y}");
-        Console.WriteLine($"Multiplicação: {resultado = x * y}");
+        Console.WriteLine($"Multiplicação: {resultado = x * y}");*/
+
+        //parte 5
+
+        int a = 5;
+        int b = 8;
+
+        if (a > b)
+        {
+                Console.WriteLine("a EH maior que b");
+        }
+        else if (a < b)
+        {
+                Console.WriteLine("a EH menor que b");
+        }
+        else if (a == b)
+        {
+                Console.WriteLine("a EH igual b");
+        }
+
+        
